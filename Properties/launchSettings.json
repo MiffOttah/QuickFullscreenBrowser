@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "QuickFullscreenBrowser": {
+      "commandName": "Project",
+      "commandLineArgs": "/topmost /x=-100 /y=100"
+    }
+  }
+}
